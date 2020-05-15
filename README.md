@@ -1,3 +1,4 @@
+# Task Scheduling
 This application is about task scheduling, the user is able to assign tasks to a certain department or employee and the user is able to see all their tasks in the calendar.
 
 Firebase has been added so we can assign employees to task
